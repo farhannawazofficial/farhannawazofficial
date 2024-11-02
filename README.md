@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://farhan-nawaz.web.app/](https://farhan-nawaz.web.app/)
+- 👨‍💻 All of my projects are available at [https://farhannawaz.netlify.app/](https://farhan-nawaz.web.app/)
 
 - 💬 Ask me about **MERN Stack**
 
