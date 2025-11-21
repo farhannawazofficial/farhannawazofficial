@@ -9,13 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhannawazofficial" alt="farhannawazofficial" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack**
-
 - 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **MERN Stack**
-
 - 📫 How to reach me **farhannawazofficial@gmail.com**
-
 - ⚡ Fun fact **fun, vibes & Code**
 
 <h3 align="left">Connect with me:</h3>
