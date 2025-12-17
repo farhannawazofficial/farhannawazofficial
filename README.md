@@ -1,4 +1,4 @@
-u[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)](https://github.com/farhannawazofficial)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)](https://github.com/farhannawazofficial)
 <h1 align="center">Hi 👋, I'm Farhan Nawaz</h1>
 <h3 align="center">A passionate Full Satck developer from Karachi PK.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
